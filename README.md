@@ -25,6 +25,8 @@ I am a Quality Assurance Engineer and I am actively gaining knowledge in this ar
 
 # My test case examples
 + [Testing the LMS module for submitting homework at the system level, sample test cases.](https://github.com/kryniczan/portfolio/blob/main/files/tc-lms-homework.pdf)
-
++ [Negative path. Testing the Bank Millennium web application. Example test cases.](https://github.com/kryniczan/portfolio/blob/main/files/tc-negative-path.pdf)
++ [Positive path. Testing the Bank Millennium web application. Example test cases.](https://github.com/kryniczan/portfolio/blob/main/files/tc-positive-path.pdf)
++ [Checklist for pre-testing (smoke test) of Slack](https://github.com/kryniczan/portfolio/blob/main/files/slack-smoke-tests-checklist.pdf)
 # My courses
 + [w3schools SQL](https://www.w3schools.com/sql/default.asp) in progress
