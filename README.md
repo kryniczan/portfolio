@@ -21,4 +21,7 @@ I am a Quality Assurance Engineer and I am actively gaining knowledge in this ar
 * ISTQB knowledge
 
 # Webinars
-  + [BugHuntFest powered by Fabryka Testów](https://fabrykatestow.pl/bughuntfest/)
+  	+ [BugHuntFest powered by Fabryka Testów](https://fabrykatestow.pl/bughuntfest/)
+
+# My test case examples
+	+ [Testing the LMS module for submitting homework at the system level, sample test cases.](https://github.com/kryniczan/portfolio/blob/main/files/tc-lms-homework.pdf)
