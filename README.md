@@ -25,3 +25,6 @@ I am a Quality Assurance Engineer and I am actively gaining knowledge in this ar
 
 # My test case examples
 + [Testing the LMS module for submitting homework at the system level, sample test cases.](https://github.com/kryniczan/portfolio/blob/main/files/tc-lms-homework.pdf)
+
+# My courses
++ [w3schools SQL](https://www.w3schools.com/sql/default.asp) in progress
