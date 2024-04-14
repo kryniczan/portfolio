@@ -21,7 +21,9 @@ I am a Quality Assurance Engineer and I am actively gaining knowledge in this ar
 * ISTQB knowledge
 
 # Project
-* [Kapu$ta](https://github.com/kryniczan/portfolio/blob/main/files/prezentacja-Kapusta.pdf) - I am pleased to present the fruits of the work of the team "Zdzislaw's pickles" in which I had the opportunity to work, serving as Tech Lead.
+[Kapu$ta](https://github.com/kryniczan/portfolio/blob/main/files/prezentacja-Kapusta.pdf)
+
+I am pleased to present the fruits of the work of the team "Zdzislaw's pickles" in which I had the opportunity to work, serving as Tech Lead.
 
 The task: to test the web application "Kapu$ta" - a tool for tracking expenses and income with the ability to assign an entry to a specific category and generate reports with a summary.
 
